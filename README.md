@@ -3,7 +3,6 @@
 ## Project Overview
 
 This project demonstrates the design and implementation of a scalable 2-tier web architecture using AWS services.
-
 The architecture includes a web/application layer and a database layer, with load balancing, auto-scaling, secure database connectivity, and monitoring configured using AWS services.
 
 ## AWS Services Used
